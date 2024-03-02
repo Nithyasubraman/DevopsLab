@@ -1,0 +1,97 @@
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\appsettings.Development.json
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\appsettings.json
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\WebApiWithController.exe
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\WebApiWithController.deps.json
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\WebApiWithController.runtimeconfig.json
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\WebApiWithController.dll
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\WebApiWithController.pdb
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.AssemblyReference.cache
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.GeneratedMSBuildEditorConfig.editorconfig
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.AssemblyInfoInputs.cache
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.AssemblyInfo.cs
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.CoreCompileInputs.cache
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.MvcApplicationPartsAssemblyInfo.cs
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.MvcApplicationPartsAssemblyInfo.cache
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\staticwebassets.build.json
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\staticwebassets.development.json
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.WebApiWithController.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiWithController.props
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiWithController.props
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiWithController.props
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\scopedcss\bundle\WebApiWithController.styles.css
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.CopyComplete
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.dll
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\refint\WebApiWithController.dll
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.pdb
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\WebApiWithController.genruntimeconfig.cache
+D:\SKV\Codes\CsharpDotnet\Practice\01032024\WebApiWithController\WebApiWithController\WebApiWithController\obj\Debug\net8.0\ref\WebApiWithController.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\appsettings.Development.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\appsettings.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.exe
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.deps.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.runtimeconfig.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.pdb
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.AssemblyReference.cache
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.AssemblyInfoInputs.cache
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.AssemblyInfo.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.CoreCompileInputs.cache
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.MvcApplicationPartsAssemblyInfo.cs
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.MvcApplicationPartsAssemblyInfo.cache
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.sourcelink.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets.build.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets.development.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.WebApiWithController.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiWithController.props
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiWithController.props
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiWithController.props
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\scopedcss\bundle\WebApiWithController.styles.css
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.CopyComplete
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\refint\WebApiWithController.dll
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.pdb
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.genruntimeconfig.cache
+D:\Devops AssessPractice\WebApiForTestsAndJenkins\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\ref\WebApiWithController.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\appsettings.Development.json
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\appsettings.json
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.exe
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.deps.json
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.runtimeconfig.json
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\WebApiWithController.pdb
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.AssemblyReference.cache
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.AssemblyInfoInputs.cache
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.AssemblyInfo.cs
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.CoreCompileInputs.cache
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.MvcApplicationPartsAssemblyInfo.cs
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.MvcApplicationPartsAssemblyInfo.cache
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets.build.json
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets.development.json
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.WebApiWithController.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiWithController.props
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiWithController.props
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiWithController.props
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\scopedcss\bundle\WebApiWithController.styles.css
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.csproj.CopyComplete
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\refint\WebApiWithController.dll
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.pdb
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\WebApiWithController.genruntimeconfig.cache
+D:\DevopsLab\WebApiForTestsAndJenkins\WebApiWithController\obj\Debug\net8.0\ref\WebApiWithController.dll

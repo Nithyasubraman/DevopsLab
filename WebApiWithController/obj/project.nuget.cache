@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBgvrCd4Z3pc/PuQpuHNKlodJeq+CPomuRNWrTA45rF1JZ/tsSLkKNVMrktxfaao6rE+6+PS+nLpBsQkp9/mvg==",
+  "success": true,
+  "projectFilePath": "D:\\DevopsLab\\WebApiForTestsAndJenkins\\WebApiWithController\\WebApiWithController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
